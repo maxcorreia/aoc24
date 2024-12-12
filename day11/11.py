@@ -61,6 +61,5 @@ def part1(loops):
         total += vals[key]
     return total
 
-
 print("Part one:", part1(25))
 print("Part two:", part1(75))

@@ -1,6 +1,5 @@
 import math
 import functools
-import time
 from collections import defaultdict
 
 filename = "input.txt"

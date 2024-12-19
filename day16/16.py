@@ -1,4 +1,3 @@
-from sys import argv
 from heapq import heappop, heappush
 from math import inf
 
